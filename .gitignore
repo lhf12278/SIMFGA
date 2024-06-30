@@ -1,4 +1,5 @@
 # Ignore all files in the build directory
+
 .idea
 *.iml
 out
